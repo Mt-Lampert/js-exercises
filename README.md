@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome
 
 So you want to practice JS? Then this "project" here should help you out.
 
@@ -10,8 +10,8 @@ Everything that happens, happens inside the `/src` folder.
 
 Inside the `/src` folder you will find:
 
-* a `README.md` file that gives you a little introduction into the topic and outlines the exercises for this topic. You should consult it 
-* several '.js' files that contain the exercises for you
+* a `README.md` file that gives you a little introduction into the topic and outlines the exercises for this topic. You should consult it if you don't know what would be the next step for you.
+* several `.js` files that contain the exercises for you.
 * a `__tests__` folder that contains the Jest specs for examining your results. If you know how Jest specs work,  you are welcome to comment the tests out you don't want to be run at the moment.
 * Maybe subfolders (that are organized as described) if the topic is too vast and too diverse to fit into one single folder.
 
